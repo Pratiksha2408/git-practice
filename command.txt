@@ -1,3 +1,6 @@
 Hello, I'm Pratiksha Patil
 welcome to devops world
 we need practice more
+git init
+git add
+git commit -m 
